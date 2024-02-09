@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apology Message</title>
+    <style>
+        body {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffd3e6; /* Pastel pink background color */
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background for text */
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Drop shadow for container */
+        }
+        h1 {
+            color: #ff69b4; /* Pink color for title */
+        }
+        p {
+            margin-bottom: 20px;
+            line-height: 1.6;
+            padding: 20px; /* Add padding to the paragraph */
+            background-image: url('https://i.pinimg.com/236x/64/b5/b2/64b5b2cc0c289f6f672b7ad06cc41510.jpg'); /* Set background image */
+            background-repeat: no-repeat; /* Prevent background image from repeating */
+            background-size: cover; /* Cover the entire paragraph */
+            background-position: center; /* Center the background image */
+            color: #000; /* Black font color */
+        }
+        .cartoon {
+            width: 150px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sincere Apology From Your Best Friend</h1>
+        <img src="https://i.pinimg.com/564x/93/58/17/935817e8dfe3653da7cd40303e637cc2.jpg" alt="You Are Special" class="cartoon">
+        <p>I want to begin by expressing my deepest apologies for the recent turmoil and confusion I've caused in our friendship. My behavior has been toxic, and I deeply regret the pain it has caused you.
+I've been going through a difficult time, and instead of handling it in a healthy way, I ended up isolating myself and even suggested breaking our friendship, which was completely unfair to you and hurtful. I allowed my own insecurities and issues to overshadow our friendship, and for that, I am truly sorry. I'm deeply sorry for the pain I've caused you
+Please know that I value our friendship more than words can express, and I am willing to do whatever it takes to rebuild the trust and connection we once shared. Our friendship means everything to me, and I'll do whatever it takes to make things right between us. If you are willing to give me another chance, I promise be the supportive and understanding friend you deserve.
+</p>
+    </div>
+</body>
+</html>
